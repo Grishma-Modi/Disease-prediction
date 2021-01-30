@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=aEnS0-Jy2vE
+https://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/
+
+
+Parts required for Project:
+
+DS18B20 Digital Sensor
+Raspberry Pi 3 B+
+16X2 LCD Display
+
+
+....................................................................
+
+https://www.youtube.com/watch?v=GTK2PVZLvzY
+
+https://github.com/shobhitsrivastava-ds/ML-MT-WebApp
+https://myml-mtapp.herokuapp.com/kidney
+
+https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+=> inblearn was not installed inside virtual env, so 
+(env) E:\Grishma\ML\Disease_Prediction>deactivate
+E:\Grishma\ML\Disease_Prediction>pip install -U imbalanced-learn
+then again activate virtual env
+
+
